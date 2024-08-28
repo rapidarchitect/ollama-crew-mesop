@@ -14,7 +14,7 @@ This project demonstrates how to use the `CrewAI` framework to automate the proc
   - [Crew](#crew)
   - [Mesop Application](#mesop-application)
 - [Customization](#customization)
-- [License](#license)
+- [Other](#other)
 
 ## Overview
 
@@ -77,3 +77,6 @@ The application uses the Mesop framework to create a web interface where users c
   - Agents: Modify the role, backstory, or goal attributes to adjust the behavior of the agents.
   - Tasks: Customize the task descriptions to change the focus of research or writing.
   - Model: Replace llama3.1 with another model supported by Ollama.
+
+  ## Other
+  Three additional scripts are included for educational purposes, an OpenAI version of the same app, a cli version and a simple crewAI example using a math professor
